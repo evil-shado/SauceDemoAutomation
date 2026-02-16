@@ -4,7 +4,7 @@
 Automated testing framework for SauceDemo e-commerce application using Selenium WebDriver with C# and NUnit.
 
 ## ✨ Features
-- 26 automated test cases
+- 27 automated test cases
 - Page Object Model (POM) design pattern
 - Login and Product testing modules
 - Automatic screenshot capture on test failures
@@ -28,6 +28,9 @@ Automated testing framework for SauceDemo e-commerce application using Selenium 
   - Sorting functionality
   - Add to cart operations
   - Cart badge validation
+    
+- **Cart Module:** 1 test case
+  - Navigation to 'Your Cart" Page
 
 ## 🚀 Getting Started
 
