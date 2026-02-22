@@ -51,8 +51,8 @@ Automated testing framework for SauceDemo e-commerce application using Selenium 
 3. View results in Test Explorer
 
 ## 📊 Test Results
-- Total Tests: 26
-- Passed: 26
+- Total Tests: 27
+- Passed: 27
 - Failed: 0
 - Pass Rate: 100%
 
